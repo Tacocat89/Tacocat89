@@ -2,9 +2,9 @@
 - 👀 I’m interested in things
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [coming soon???] [[no]]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: you can't see me because i'm invisible
+- you can't see me because i'm invisible
 
 <!---
 Tacocat89/Tacocat89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
